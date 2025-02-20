@@ -5,7 +5,7 @@
 ### Program Studi Sistem Informasi
 
 
-# Buku Ajar dan  Big Data
+# Buku Ajar Big Data
 
 List judul modul setiap pertemuan:
 
